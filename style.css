@@ -8,16 +8,3 @@
     width:60px;
     border: 1px solid rgba(0, 0, 0, 0.5);
 }
-
-.colorButton {
-  min-width:60px;
-  min-height:60px;
-  padding: 0px;
-}
-
-#button1 {background-color: #4CAF50;} /* Green */
-#button2 {background-color: #008CBA;} /* Blue */
-#button3 {background-color: #f44336;} /* Red */
-#button4 {background-color: #e7e7e7; color: black;} /* Gray */
-#button5 {background-color: #555555;} /* Black */
-#button6 {background-color: white;} /* white */
