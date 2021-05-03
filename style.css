@@ -2,3 +2,15 @@
   width: 58px;
   height: 58px;
 }
+
+#line{
+  dispelay: flex;
+  flex-wrap: wrap;
+  width: 240px;
+  border: 2px solid rgb(0, 0, 0);
+}
+.bar{
+  width: 58px;
+  height: 58px;
+  border: 1px solid rgb(0, 0, 0);
+}
