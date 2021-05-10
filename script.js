@@ -15,8 +15,3 @@ for (i=0; i<36; i++) {
   cell.addEventListener("mouseover", white);
   document.getElementById("grid").appendChild(cell);
 }
-for (i=0;i<4; i++) {
-   var line = document.createElement("div");
-   line.className = "bar";
-   document.getElementById("bar").appendChild(line);
-}
