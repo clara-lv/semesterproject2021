@@ -1,3 +1,13 @@
+.grid-container {
+  display: inline-grid;
+  grid-template-columns: auto auto auto auto auto auto;
+}
+
+.items {
+    height:60px;
+    width:60px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
 #colorPicker {
   width: 58px;
   height: 58px;
